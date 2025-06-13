@@ -1,7 +1,7 @@
 """
 bandit_adapter.py
 
-Provides a thin wrapper so you can plug NonContextualUCB into the same
+wrapper to plug NonContextualUCB into the same
 simulation loop that expects LinUCBPolicy.
 """
 
